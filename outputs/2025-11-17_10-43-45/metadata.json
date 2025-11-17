@@ -1,0 +1,19 @@
+{
+  "prompt": "zebra with painting\n",
+  "enhanced_prompt": "zebra with painting, highly detailed, 8k resolution, sharp focus, professional lighting, volumetric light",
+  "negative_prompt": "",
+  "style": null,
+  "num_images": 1,
+  "guidance_scale": 7.5,
+  "num_inference_steps": 40,
+  "height": 768,
+  "width": 768,
+  "seed": null,
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "device": "cpu",
+  "timestamp": "2025-11-17T10:43:45.774706",
+  "files": [
+    "outputs\\2025-11-17_10-43-45\\image_01.png",
+    "outputs\\2025-11-17_10-43-45\\image_01.jpg"
+  ]
+}
